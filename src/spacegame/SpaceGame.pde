@@ -1,5 +1,5 @@
 // Rafid Aayan | 29 Nov 2022 | Spaceship
-import processing.sound.*;
+//import processing.sound.*;
 //SoundFile[] laser;
 
 Ship carl;
