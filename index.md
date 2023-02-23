@@ -31,6 +31,6 @@ OOP Space Game built in Processing 4
 
 Pig Latin Converter built in Java (on Replit)
 
-![Running Space Game](https://github.com/rafidaayan0/programming_portfolio/blob/main/images/piglatin.png?raw=true)
+![Running Pig Latin Converter](https://github.com/rafidaayan0/programming_portfolio/blob/main/images/piglatin.png?raw=true)
 
-[Space Game Source Code](https://github.com/rafidaayan0/programming_portfolio/tree/main/src/piglatin)
+[Pig Latin Converter Source Code](https://github.com/rafidaayan0/programming_portfolio/tree/main/src/piglatin)
