@@ -2,7 +2,8 @@
 
 [Contact Me (Personal)](mailto:rafidaayan1@gmail.com)
 [Contact Me (School)](mailto:rafiaaya9583@graniteschools.org)
-[Computer Programming 1 Certification](https://github.com/rafidaayan0/programming_portfolio/blob/main/images/YouScience_Certificate.pdf?raw=true)
+
+[Certifications](https://github.com/rafidaayan0/programming_portfolio/tree/main/images/Certifications)
 
 # 2022-23 Programming Projects
 
