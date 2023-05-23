@@ -1,3 +1,8 @@
+# Rafid Aayan
+
+[Contact Me (Personal)](mailto:rafidaayan1@gmail.com)
+[Contact Me (School)](mailto:RAFIAAYA9583@graniteschools.org)
+
 # 2022-23 Programming Projects
 
 ## Processing Projects
@@ -34,3 +39,12 @@ Pig Latin Converter built in Java (on Replit)
 ![Running Pig Latin Converter](https://github.com/rafidaayan0/programming_portfolio/blob/main/images/piglatin.png?raw=true)
 
 [Pig Latin Converter Source Code](https://github.com/rafidaayan0/programming_portfolio/tree/main/src/piglatin)
+
+
+### Snake Game
+
+OOP Snake Clone built in Processing 4
+
+![Running Converter App]()
+
+[Converter App Source Code]()
