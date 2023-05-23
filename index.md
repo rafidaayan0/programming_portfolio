@@ -1,7 +1,7 @@
 # Rafid Aayan
 
 [Contact Me (Personal)](mailto:rafidaayan1@gmail.com)
-[Contact Me (School)](mailto:RAFIAAYA9583@graniteschools.org)
+[Contact Me (School)](mailto:rafiaaya9583@graniteschools.org)
 
 # 2022-23 Programming Projects
 
