@@ -17,6 +17,14 @@ OOP Graphical Calculator built in Processing 4
 
 [Calculator Source Code](https://github.com/rafidaayan0/programming_portfolio/tree/main/src/calc)
 
+### Cars
+
+OOP Car Animation built in Processing 4
+
+![Running Cars](https://github.com/rafidaayan0/programming_portfolio/blob/main/images/cars.png?raw=true)
+
+[Cars Source Code](https://github.com/rafidaayan0/programming_portfolio/tree/main/src/cars)
+
 ### Converter App
 
 OOP Conversion App built in Processing 4
