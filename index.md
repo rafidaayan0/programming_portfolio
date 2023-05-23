@@ -7,7 +7,7 @@
 
 # 2022-23 Programming Projects
 
-## Processing Projects
+## Projects
 
 ### Calculator
 
@@ -50,11 +50,14 @@ Pig Latin Converter built in Java (on Replit)
 
 [Pig Latin Converter Source Code](https://github.com/rafidaayan0/programming_portfolio/tree/main/src/piglatin)
 
+## Group Projects
 
 ### Snake Game
 
 OOP Snake Clone built in Processing 4
 
-![Running Converter App]()
+![Running Snake Game](https://github.com/rafidaayan0/programming_portfolio/blob/main/images/snake.png?raw=true)
 
-[Converter App Source Code]()
+[Snake Game Group Repository](https://github.com/banananabusiness/project)
+
+[Snake Game Source Code](https://github.com/banananabusiness/project/tree/main/snake/src)
